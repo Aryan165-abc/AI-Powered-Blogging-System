@@ -79,6 +79,12 @@ I wanted to explore how real-world AI systems are built by combining multiple co
 This project helped me understand how modern AI applications actually work in production-like environments.
 
 
+## 📸 Demo
+
+![Generated Blog]<img width="1092" height="925" alt="ai blog" src="https://github.com/user-attachments/assets/5d85b9fd-9717-4ba5-8630-33462514c8fb" />
+
+
+
 
 This is a learning + practical project, and I’m continuing to improve it.
 If you have suggestions or ideas, feel free to share!
